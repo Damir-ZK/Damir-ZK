@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a full-stack developer with a passion for engineering and process automation. 
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,vscode,postgres,docker,kubernetes,nextjs,redis,windows,obsidian)](https://skillicons.dev)
+
 <!--
 **Damir-ZK/Damir-ZK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
